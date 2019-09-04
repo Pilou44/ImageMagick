@@ -1,2 +1,2 @@
-include ':app', ':wmagick'
+include ':wmagick'
 rootProject.name='ImageMagick'
