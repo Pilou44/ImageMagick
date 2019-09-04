@@ -1,0 +1,2 @@
+include ':app', ':wmagick'
+rootProject.name='ImageMagick'
