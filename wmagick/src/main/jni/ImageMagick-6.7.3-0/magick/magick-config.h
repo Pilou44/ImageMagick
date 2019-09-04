@@ -307,9 +307,9 @@
 #endif
 
 /* Define to 1 if you have the <ft2build.h> header file. */
-#ifndef MAGICKCORE_HAVE_FT2BUILD_H
-#define MAGICKCORE_HAVE_FT2BUILD_H 1
-#endif
+//#ifndef MAGICKCORE_HAVE_FT2BUILD_H
+//#define MAGICKCORE_HAVE_FT2BUILD_H 1
+//#endif
 
 /* Define to 1 if you have the `ftime' function. */
 #ifndef MAGICKCORE_HAVE_FTIME
@@ -887,9 +887,9 @@
 #endif
 
 /* Define to 1 if you have the <sys/syslimits.h> header file. */
-#ifndef MAGICKCORE_HAVE_SYS_SYSLIMITS_H
-#define MAGICKCORE_HAVE_SYS_SYSLIMITS_H 1
-#endif
+//#ifndef MAGICKCORE_HAVE_SYS_SYSLIMITS_H
+//#define MAGICKCORE_HAVE_SYS_SYSLIMITS_H 1
+//#endif
 
 /* Define to 1 if you have the <sys/timeb.h> header file. */
 #ifndef MAGICKCORE_HAVE_SYS_TIMEB_H
@@ -1469,9 +1469,9 @@
 /* #undef ZERO_CONFIGURATION_SUPPORT */
 
 /* Define if you have zlib compression library */
-#ifndef MAGICKCORE_ZLIB_DELEGATE
-#define MAGICKCORE_ZLIB_DELEGATE 1
-#endif
+//#ifndef MAGICKCORE_ZLIB_DELEGATE
+//#define MAGICKCORE_ZLIB_DELEGATE 1
+//#endif
 
 /* Number of bits in a file offset, on hosts where this is settable. */
 /* #undef _FILE_OFFSET_BITS */

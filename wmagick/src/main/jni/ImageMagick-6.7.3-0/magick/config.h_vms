@@ -89,7 +89,7 @@
 #define MAGICKCORE_HAVE_FCNTL_H 1
 
 /* Define if you have the <ft2build.h> header file.  */
-#define MAGICKCORE_HAVE_FT2BUILD_H 1
+//#define MAGICKCORE_HAVE_FT2BUILD_H 1
 
 /* Define if you have the <freetype/freetype.h> header file.  */
 #define MAGICKCORE_HAVE_FREETYPE_FREETYPE_H 1
