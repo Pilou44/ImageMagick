@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/cache.h"
+#include "cache.h"
 
 typedef struct _QuantumState
 {

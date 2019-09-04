@@ -31,9 +31,9 @@ extern "C" {
 #include <X11/keysym.h>
 #include <X11/Xresource.h>
 #include <X11/Xutil.h>
-#include "magick/exception.h"
-#include "magick/geometry.h"
-#include "magick/quantize.h"
+#include "exception.h"
+#include "geometry.h"
+#include "quantize.h"
 
 #if defined(__cplusplus) || defined(c_plusplus)
 # define klass  c_class

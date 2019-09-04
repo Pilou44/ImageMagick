@@ -40,20 +40,20 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/color-private.h"
-#include "magick/draw.h"
-#include "magick/gem.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/pixel-private.h"
-#include "magick/quantum.h"
-#include "magick/random_.h"
-#include "magick/resize.h"
-#include "magick/transform.h"
-#include "magick/signature-private.h"
+#include "studio.h"
+#include "color-private.h"
+#include "draw.h"
+#include "gem.h"
+#include "image.h"
+#include "image-private.h"
+#include "log.h"
+#include "memory_.h"
+#include "pixel-private.h"
+#include "quantum.h"
+#include "random_.h"
+#include "resize.h"
+#include "transform.h"
+#include "signature-private.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

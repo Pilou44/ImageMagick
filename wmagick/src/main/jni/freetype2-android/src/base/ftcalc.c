@@ -32,8 +32,8 @@
   /*************************************************************************/
 
 
-#include <ft2build.h>
-#include FT_GLYPH_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/ftglyph.h"
 #include FT_INTERNAL_CALC_H
 #include FT_INTERNAL_DEBUG_H
 #include FT_INTERNAL_OBJECTS_H

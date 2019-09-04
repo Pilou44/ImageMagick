@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/draw.h"
+#include "draw.h"
 
 extern MagickExport MagickBooleanType
   AnnotateComponentGenesis(void),

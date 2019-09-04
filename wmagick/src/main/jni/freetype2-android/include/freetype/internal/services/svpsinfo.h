@@ -19,7 +19,7 @@
 #ifndef __SVPSINFO_H__
 #define __SVPSINFO_H__
 
-#include FT_INTERNAL_SERVICE_H
+#include "../ftserv.h"
 #include FT_INTERNAL_TYPE1_TYPES_H
 
 

@@ -74,9 +74,9 @@
 #include <assert.h>
 #include <stdlib.h>
 
-#include "jasper/jas_stream.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jp2_cod.h"
 

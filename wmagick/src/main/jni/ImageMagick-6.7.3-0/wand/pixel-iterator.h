@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include "wand/magick-wand.h"
-#include "wand/pixel-wand.h"
+#include "magick-wand.h"
+#include "pixel-wand.h"
 
 typedef struct _PixelIterator
   PixelIterator;

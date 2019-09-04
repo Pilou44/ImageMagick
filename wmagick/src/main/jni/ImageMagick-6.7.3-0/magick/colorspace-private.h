@@ -22,9 +22,9 @@
 extern "C" {
 #endif
 
-#include <magick/image.h>
-#include <magick/image-private.h>
-#include <magick/pixel.h>
+#include "image.h"
+#include "image-private.h"
+#include "pixel.h"
 
 static inline void ConvertRGBToCMYK(MagickPixelPacket *pixel)
 {

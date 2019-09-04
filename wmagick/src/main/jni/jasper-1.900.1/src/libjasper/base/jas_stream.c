@@ -86,10 +86,10 @@
 #include <io.h>
 #endif
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
 
 /******************************************************************************\
 * Local function prototypes.

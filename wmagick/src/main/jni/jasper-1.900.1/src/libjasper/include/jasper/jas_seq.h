@@ -74,10 +74,10 @@
 * Includes.
 \******************************************************************************/
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
-#include <jasper/jas_stream.h>
-#include <jasper/jas_types.h>
+#include "jas_stream.h"
+#include "jas_types.h"
 
 #ifdef __cplusplus
 extern "C" {

@@ -40,16 +40,16 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/list.h"
-#include "magick/memory_.h"
-#include "magick/registry.h"
-#include "magick/splay-tree.h"
-#include "magick/string_.h"
-#include "magick/utility.h"
+#include "studio.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image.h"
+#include "list.h"
+#include "memory_.h"
+#include "registry.h"
+#include "splay-tree.h"
+#include "string_.h"
+#include "utility.h"
 
 /*
   Typedef declarations.

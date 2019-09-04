@@ -74,7 +74,7 @@
 * Includes
 \******************************************************************************/
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
 #include	<assert.h>
 #include	<stdio.h>

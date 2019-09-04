@@ -40,10 +40,10 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/image.h"
-#include "magick/log.h"
-#include "magick/monitor.h"
+#include "studio.h"
+#include "image.h"
+#include "log.h"
+#include "monitor.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

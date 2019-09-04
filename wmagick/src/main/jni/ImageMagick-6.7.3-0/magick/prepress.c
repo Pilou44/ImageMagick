@@ -39,19 +39,19 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/cache-view.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/hashmap.h"
-#include "magick/image.h"
-#include "magick/list.h"
-#include "magick/memory_.h"
-#include "magick/prepress.h"
-#include "magick/registry.h"
-#include "magick/semaphore.h"
-#include "magick/splay-tree.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "cache-view.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "hashmap.h"
+#include "image.h"
+#include "list.h"
+#include "memory_.h"
+#include "prepress.h"
+#include "registry.h"
+#include "semaphore.h"
+#include "splay-tree.h"
+#include "string_.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

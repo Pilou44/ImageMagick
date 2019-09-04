@@ -21,10 +21,10 @@
 #define __CFFTYPES_H__
 
 
-#include <ft2build.h>
+#include "../../include/ft2build.h"
 #include FT_FREETYPE_H
-#include FT_TYPE1_TABLES_H
-#include FT_INTERNAL_SERVICE_H
+#include "../../include/freetype/t1tables.h"
+#include "../../include/freetype/internal/ftserv.h"
 #include FT_SERVICE_POSTSCRIPT_CMAPS_H
 #include FT_INTERNAL_POSTSCRIPT_HINTS_H
 

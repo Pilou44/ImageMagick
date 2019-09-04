@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/semaphore.h"
+#include "semaphore.h"
 
 #define RoundToQuantum(quantum)  ClampToQuantum(quantum)
 

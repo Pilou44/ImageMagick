@@ -22,7 +22,7 @@
   
 FT_BEGIN_HEADER
 
-#include FT_INTERNAL_PIC_H
+#include "../../include/freetype/internal/ftpic.h"
 
 #ifndef FT_CONFIG_OPTION_PIC
 #define FT_PSCMAPS_SERVICES_GET     pscmaps_services

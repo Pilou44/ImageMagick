@@ -75,10 +75,10 @@
 #include <stdlib.h>
 #include <stdarg.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jpc_mqdec.h"
 

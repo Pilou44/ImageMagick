@@ -1,7 +1,7 @@
 #ifndef __JMAGICK__
 #define __JMAGICK__
 
-#include <magick/image.h>
+#include "ImageMagick-6.7.3-0/magick/image.h"
 
 #if MagickLibInterface >= 5
 #define DestroyImages DestroyImageList

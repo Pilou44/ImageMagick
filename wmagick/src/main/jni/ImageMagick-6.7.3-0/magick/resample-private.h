@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/thread-private.h"
+#include "thread-private.h"
 
 static inline ResampleFilter **DestroyResampleFilterThreadSet(
   ResampleFilter **filter)

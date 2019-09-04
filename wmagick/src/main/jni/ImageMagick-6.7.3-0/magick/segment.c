@@ -82,24 +82,24 @@
 %
 */
 
-#include "magick/studio.h"
-#include "magick/cache.h"
-#include "magick/color.h"
-#include "magick/colormap.h"
-#include "magick/colorspace.h"
-#include "magick/colorspace-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/quantize.h"
-#include "magick/quantum.h"
-#include "magick/quantum-private.h"
-#include "magick/segment.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "cache.h"
+#include "color.h"
+#include "colormap.h"
+#include "colorspace.h"
+#include "colorspace-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image.h"
+#include "image-private.h"
+#include "memory_.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "quantize.h"
+#include "quantum.h"
+#include "quantum-private.h"
+#include "segment.h"
+#include "string_.h"
 
 /*
   Define declarations.

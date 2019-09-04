@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include <magick/fx.h>
-#include <magick/random_.h>
+#include "fx.h"
+#include "random_.h"
 
 extern MagickExport double
   ExpandAffine(const AffineMatrix *),

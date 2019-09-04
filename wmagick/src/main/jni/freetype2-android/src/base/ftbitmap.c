@@ -16,9 +16,9 @@
 /***************************************************************************/
 
 
-#include <ft2build.h>
+#include "../../include/ft2build.h"
 #include FT_BITMAP_H
-#include FT_IMAGE_H
+#include "../../include/freetype/ftimage.h"
 #include FT_INTERNAL_OBJECTS_H
 
 

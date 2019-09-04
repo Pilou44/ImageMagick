@@ -67,9 +67,9 @@
  * $Id$
  */
 
-#include "jasper/jas_math.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
 
 #include "jpc_cs.h"
 #include "jpc_t2cod.h"

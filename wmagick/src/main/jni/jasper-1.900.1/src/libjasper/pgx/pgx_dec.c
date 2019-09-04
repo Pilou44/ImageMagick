@@ -66,10 +66,10 @@
 #include <assert.h>
 #include <ctype.h>
 
-#include "jasper/jas_tvp.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_image.h"
-#include "jasper/jas_string.h"
+#include "../include/jasper/jas_tvp.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_string.h"
 
 #include "pgx_cod.h"
 

@@ -42,14 +42,14 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/hashmap.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/signature-private.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "hashmap.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "signature-private.h"
+#include "string_.h"
 
 /*
   Typedef declarations.

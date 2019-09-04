@@ -62,7 +62,7 @@
 #ifndef JAS_INIT_H
 #define JAS_INIT_H
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
 #ifdef __cplusplus
 extern "C" {

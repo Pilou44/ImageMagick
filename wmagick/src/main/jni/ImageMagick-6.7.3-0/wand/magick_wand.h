@@ -19,6 +19,6 @@
 #ifndef _MAGICKWAND_MAGICK_WAND_DEPRECATED_H
 #define _MAGICKWAND_MAGICK_WAND_DEPRECATED_H
 
-#include "wand/MagickWand.h"
+#include "MagickWand.h"
 
 #endif

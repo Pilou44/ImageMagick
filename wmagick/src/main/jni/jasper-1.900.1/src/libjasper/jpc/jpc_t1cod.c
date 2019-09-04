@@ -74,8 +74,8 @@
 #include <assert.h>
 #include <math.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_math.h"
 
 #include "jpc_bs.h"
 #include "jpc_dec.h"

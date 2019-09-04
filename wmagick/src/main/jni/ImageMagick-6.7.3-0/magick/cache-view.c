@@ -46,15 +46,15 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/cache.h"
-#include "magick/cache-private.h"
-#include "magick/cache-view.h"
-#include "magick/memory_.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/string_.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "cache.h"
+#include "cache-private.h"
+#include "cache-view.h"
+#include "memory_.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "string_.h"
+#include "thread-private.h"
 
 /*
   Typedef declarations.

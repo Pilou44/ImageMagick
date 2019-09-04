@@ -53,14 +53,14 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "blob.h"
+#include "blob-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "string_.h"
 
 /*
   Define declarations.

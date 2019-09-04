@@ -39,20 +39,20 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/client.h"
-#include "magick/configure.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/hashmap.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/string_.h"
-#include "magick/token.h"
-#include "magick/utility.h"
-#include "magick/xml-tree.h"
+#include "studio.h"
+#include "blob.h"
+#include "client.h"
+#include "configure.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "hashmap.h"
+#include "log.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "string_.h"
+#include "token.h"
+#include "utility.h"
+#include "xml-tree.h"
 
 /*
   Define declarations.

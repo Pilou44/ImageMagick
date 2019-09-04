@@ -66,8 +66,8 @@
 #include <stdarg.h>
 #include <stdio.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_debug.h"
 
 /******************************************************************************\
 * Local data.

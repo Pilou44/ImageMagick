@@ -40,22 +40,22 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/cache-view.h"
-#include "magick/color-private.h"
-#include "magick/colorspace-private.h"
-#include "magick/composite.h"
-#include "magick/decorate.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/pixel-private.h"
-#include "magick/quantum.h"
-#include "magick/thread-private.h"
-#include "magick/transform.h"
+#include "studio.h"
+#include "cache-view.h"
+#include "color-private.h"
+#include "colorspace-private.h"
+#include "composite.h"
+#include "decorate.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image.h"
+#include "memory_.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "pixel-private.h"
+#include "quantum.h"
+#include "thread-private.h"
+#include "transform.h"
 
 /*
   Define declarations.

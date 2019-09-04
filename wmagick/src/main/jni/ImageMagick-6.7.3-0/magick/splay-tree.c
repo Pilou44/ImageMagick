@@ -48,14 +48,14 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/splay-tree.h"
-#include "magick/semaphore.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "log.h"
+#include "memory_.h"
+#include "splay-tree.h"
+#include "semaphore.h"
+#include "string_.h"
 
 /*
   Define declarations.

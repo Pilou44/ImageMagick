@@ -22,9 +22,9 @@
 extern "C" {
 #endif
 
-#include <magick/image.h>
-#include <magick/color.h>
-#include <magick/exception-private.h>
+#include "image.h"
+#include "color.h"
+#include "exception-private.h"
 
 static inline IndexPacket ConstrainColormapIndex(Image *image,
   const size_t index)

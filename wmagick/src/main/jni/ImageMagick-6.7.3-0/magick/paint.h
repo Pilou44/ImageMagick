@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include "magick/color.h"
-#include "magick/draw.h"
+#include "color.h"
+#include "draw.h"
 
 extern MagickExport Image
   *OilPaintImage(const Image *,const double,ExceptionInfo *);

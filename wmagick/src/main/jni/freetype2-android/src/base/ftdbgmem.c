@@ -16,13 +16,13 @@
 /***************************************************************************/
 
 
-#include <ft2build.h>
-#include FT_CONFIG_CONFIG_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/config/ftconfig.h"
 #include FT_INTERNAL_DEBUG_H
-#include FT_INTERNAL_MEMORY_H
-#include FT_SYSTEM_H
-#include FT_ERRORS_H
-#include FT_TYPES_H
+#include "../../include/freetype/internal/ftmemory.h"
+#include "../../include/freetype/ftsystem.h"
+#include "../../include/freetype/fterrors.h"
+#include "../../include/freetype/fttypes.h"
 
 
 #ifdef FT_DEBUG_MEMORY

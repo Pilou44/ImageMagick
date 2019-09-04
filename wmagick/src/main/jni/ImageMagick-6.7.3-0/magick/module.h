@@ -23,7 +23,7 @@ extern "C" {
 #endif
 
 #include <time.h>
-#include "magick/version.h"
+#include "version.h"
 
 #define MagickImageCoderSignature  ((size_t) \
   (((MagickLibVersion) << 8) | MAGICKCORE_QUANTUM_DEPTH))

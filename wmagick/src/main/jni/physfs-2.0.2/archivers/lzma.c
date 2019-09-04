@@ -13,14 +13,14 @@
 #include <string.h>
 #include <time.h>
 
-#include "physfs.h"
+#include "../physfs.h"
 
 #define __PHYSICSFS_INTERNAL__
-#include "physfs_internal.h"
+#include "../physfs_internal.h"
 
-#include "lzma/C/7zCrc.h"
-#include "lzma/C/Archive/7z/7zIn.h"
-#include "lzma/C/Archive/7z/7zExtract.h"
+#include "../lzma/C/7zCrc.h"
+#include "../lzma/C/Archive/7z/7zIn.h"
+#include "../lzma/C/Archive/7z/7zExtract.h"
 
 
 /* 7z internal from 7zIn.c */

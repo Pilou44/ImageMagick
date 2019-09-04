@@ -74,9 +74,9 @@
 #include <assert.h>
 #include <stdlib.h>
 
-#include "jasper/jas_image.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "ras_cod.h"
 #include "ras_enc.h"

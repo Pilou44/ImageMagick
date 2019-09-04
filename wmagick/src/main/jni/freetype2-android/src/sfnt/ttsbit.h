@@ -20,7 +20,7 @@
 #define __TTSBIT_H__
 
 
-#include <ft2build.h>
+#include "../../include/ft2build.h"
 #include "ttload.h"
 
 

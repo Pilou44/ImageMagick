@@ -76,7 +76,7 @@
 #include <assert.h>
 #include <stdio.h>
 
-#include "jasper/jas_malloc.h"
+#include "../include/jasper/jas_malloc.h"
 
 #include "jpc_tagtree.h"
 

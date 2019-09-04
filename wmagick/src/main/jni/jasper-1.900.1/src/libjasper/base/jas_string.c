@@ -73,8 +73,8 @@
 
 #include <string.h>
 
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_string.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_string.h"
 
 /******************************************************************************\
 * Miscellaneous Functions

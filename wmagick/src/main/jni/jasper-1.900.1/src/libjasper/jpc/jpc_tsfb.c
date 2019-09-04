@@ -73,8 +73,8 @@
 
 #include <assert.h>
 
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_seq.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_seq.h"
 
 #include "jpc_tsfb.h"
 #include "jpc_cod.h"

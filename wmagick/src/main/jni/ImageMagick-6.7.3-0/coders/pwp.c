@@ -39,24 +39,24 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/constitute.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/resource_.h"
-#include "magick/quantum-private.h"
-#include "magick/static.h"
-#include "magick/string_.h"
-#include "magick/module.h"
+#include "../magick/studio.h"
+#include "../magick/blob.h"
+#include "../magick/blob-private.h"
+#include "../magick/constitute.h"
+#include "../magick/exception.h"
+#include "../magick/exception-private.h"
+#include "../magick/image.h"
+#include "../magick/image-private.h"
+#include "../magick/list.h"
+#include "../magick/magick.h"
+#include "../magick/memory_.h"
+#include "../magick/monitor.h"
+#include "../magick/monitor-private.h"
+#include "../magick/resource_.h"
+#include "../magick/quantum-private.h"
+#include "../magick/static.h"
+#include "../magick/string_.h"
+#include "../magick/module.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

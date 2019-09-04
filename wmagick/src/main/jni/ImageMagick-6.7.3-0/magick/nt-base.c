@@ -38,23 +38,23 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
+#include "studio.h"
 #if defined(MAGICKCORE_WINDOWS_SUPPORT)
-#include "magick/client.h"
-#include "magick/exception-private.h"
-#include "magick/locale_.h"
-#include "magick/log.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/resource_.h"
-#include "magick/timer.h"
-#include "magick/string_.h"
-#include "magick/utility.h"
-#include "magick/version.h"
+#include "client.h"
+#include "exception-private.h"
+#include "locale_.h"
+#include "log.h"
+#include "magick.h"
+#include "memory_.h"
+#include "resource_.h"
+#include "timer.h"
+#include "string_.h"
+#include "utility.h"
+#include "version.h"
 #if defined(MAGICKCORE_LTDL_DELEGATE)
 #  include "ltdl.h"
 #endif
-#include "magick/nt-base.h"
+#include "nt-base.h"
 #if defined(MAGICKCORE_CIPHER_SUPPORT)
 #include <ntsecapi.h>
 #include <wincrypt.h>

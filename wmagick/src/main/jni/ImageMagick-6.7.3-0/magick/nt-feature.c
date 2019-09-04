@@ -40,27 +40,27 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
+#include "studio.h"
 #if defined(MAGICKCORE_WINDOWS_SUPPORT) || defined(__CYGWIN__)
 #define WIN32_LEAN_AND_MEAN
 #define VC_EXTRALEAN
 #include <windows.h>
-#include "magick/cache.h"
-#include "magick/colorspace.h"
-#include "magick/colorspace-private.h"
-#include "magick/draw.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image-private.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/quantum.h"
-#include "magick/string_.h"
-#include "magick/token.h"
-#include "magick/splay-tree.h"
-#include "magick/utility.h"
-#include "magick/nt-feature.h"
+#include "cache.h"
+#include "colorspace.h"
+#include "colorspace-private.h"
+#include "draw.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image-private.h"
+#include "memory_.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "quantum.h"
+#include "string_.h"
+#include "token.h"
+#include "splay-tree.h"
+#include "utility.h"
+#include "nt-feature.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

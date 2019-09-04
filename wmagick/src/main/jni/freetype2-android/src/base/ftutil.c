@@ -16,9 +16,9 @@
 /***************************************************************************/
 
 
-#include <ft2build.h>
+#include "../../include/ft2build.h"
 #include FT_INTERNAL_DEBUG_H
-#include FT_INTERNAL_MEMORY_H
+#include "../../include/freetype/internal/ftmemory.h"
 #include FT_INTERNAL_OBJECTS_H
 #include FT_LIST_H
 

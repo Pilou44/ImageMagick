@@ -39,10 +39,10 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/matrix.h"
-#include "magick/memory_.h"
-#include "magick/utility.h"
+#include "studio.h"
+#include "matrix.h"
+#include "memory_.h"
+#include "utility.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -23,7 +23,7 @@ extern "C" {
 #endif
 
 #include <stdarg.h>
-#include "magick/exception.h"
+#include "exception.h"
 
 #if !defined(GetMagickModule)
 # define GetMagickModule()  __FILE__,__func__,(unsigned long) __LINE__

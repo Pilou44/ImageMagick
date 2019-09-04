@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include <magick/colorspace.h>
-#include <magick/constitute.h>
+#include "colorspace.h"
+#include "constitute.h"
 
 #define ClampPixelRed(pixel) ClampToQuantum((pixel)->red)
 #define ClampPixelGreen(pixel) ClampToQuantum((pixel)->green)

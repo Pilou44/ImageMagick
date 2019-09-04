@@ -39,31 +39,31 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/attribute.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/cache.h"
-#include "magick/colorspace.h"
-#include "magick/colorspace-private.h"
-#include "magick/color.h"
-#include "magick/color-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/option.h"
-#include "magick/profile.h"
-#include "magick/quantum-private.h"
-#include "magick/static.h"
-#include "magick/statistic.h"
-#include "magick/string_.h"
-#include "magick/module.h"
+#include "../magick/studio.h"
+#include "../magick/attribute.h"
+#include "../magick/blob.h"
+#include "../magick/blob-private.h"
+#include "../magick/cache.h"
+#include "../magick/colorspace.h"
+#include "../magick/colorspace-private.h"
+#include "../magick/color.h"
+#include "../magick/color-private.h"
+#include "../magick/exception.h"
+#include "../magick/exception-private.h"
+#include "../magick/image.h"
+#include "../magick/image-private.h"
+#include "../magick/list.h"
+#include "../magick/magick.h"
+#include "../magick/memory_.h"
+#include "../magick/monitor.h"
+#include "../magick/monitor-private.h"
+#include "../magick/option.h"
+#include "../magick/profile.h"
+#include "../magick/quantum-private.h"
+#include "../magick/static.h"
+#include "../magick/statistic.h"
+#include "../magick/string_.h"
+#include "../magick/module.h"
 #ifndef JAS_IMAGE_CM_GRAY
 #define JAS_IMAGE_CM_GRAY JAS_IMAGE_CS_GRAY
 #endif
@@ -90,7 +90,7 @@
 #undef PACKAGE_STRING
 #undef PACKAGE_TARNAME
 #undef PACKAGE_VERSION
-#include "jasper/jasper.h"
+#include "../../jasper-1.900.1/src/libjasper/include/jasper/jasper.h"
 #undef PACKAGE_NAME
 #undef PACKAGE_STRING
 #undef PACKAGE_TARNAME

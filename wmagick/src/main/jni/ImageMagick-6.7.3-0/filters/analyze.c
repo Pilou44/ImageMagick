@@ -42,7 +42,7 @@
 #include <time.h>
 #include <assert.h>
 #include <math.h>
-#include "magick/MagickCore.h"
+#include "../magick/MagickCore.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

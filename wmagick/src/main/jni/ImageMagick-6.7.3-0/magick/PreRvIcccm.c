@@ -36,9 +36,9 @@
 %
 */
 
-#include "magick/studio.h"
+#include "studio.h"
 #if defined(MAGICKCORE_X11_DELEGATE)
-#include "magick/xwindow-private.h"
+#include "xwindow-private.h"
 
 #if defined(PRE_R6_ICCCM)
 /*

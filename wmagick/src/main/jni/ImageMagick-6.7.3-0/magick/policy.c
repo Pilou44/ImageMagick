@@ -40,21 +40,21 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/client.h"
-#include "magick/configure.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/option.h"
-#include "magick/policy.h"
-#include "magick/semaphore.h"
-#include "magick/string_.h"
-#include "magick/token.h"
-#include "magick/utility.h"
-#include "magick/xml-tree.h"
+#include "studio.h"
+#include "client.h"
+#include "configure.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "memory_.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "option.h"
+#include "policy.h"
+#include "semaphore.h"
+#include "string_.h"
+#include "token.h"
+#include "utility.h"
+#include "xml-tree.h"
 
 /*
   Define declarations.

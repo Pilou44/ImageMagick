@@ -33,7 +33,7 @@ extern "C" {
 #if !defined(_MAGICKCORE_CONFIG_H)
 # define _MAGICKCORE_CONFIG_H
 # if !defined(vms) && !defined(macintosh)
-#  include "magick/magick-config.h"
+#  include "magick-config.h"
 # else
 #  include "magick-config.h"
 # endif
@@ -269,7 +269,7 @@ extern int vsnprintf(char *,size_t,const char *,va_list);
 # if !defined(S_ISREG)
 #  define S_ISREG(mode) (((mode) & S_IFMT) == S_IFREG)
 # endif
-# include "magick/magick-type.h"
+# include "magick-type.h"
 # if !defined(MAGICKCORE_WINDOWS_SUPPORT)
 #  include <sys/time.h>
 # if defined(MAGICKCORE_HAVE_SYS_TIMES_H)

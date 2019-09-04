@@ -47,9 +47,9 @@
 /*
   Include declarations.
 */
-#include "wand/studio.h"
-#include "wand/MagickWand.h"
-#include "wand/mogrify-private.h"
+#include "studio.h"
+#include "MagickWand.h"
+#include "mogrify-private.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

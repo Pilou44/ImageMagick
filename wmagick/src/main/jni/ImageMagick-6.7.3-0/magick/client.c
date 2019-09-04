@@ -39,9 +39,9 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/client.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "client.h"
+#include "string_.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

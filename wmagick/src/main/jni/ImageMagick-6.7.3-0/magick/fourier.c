@@ -42,18 +42,18 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/cache.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/fourier.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/property.h"
-#include "magick/quantum-private.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "cache.h"
+#include "image.h"
+#include "image-private.h"
+#include "list.h"
+#include "fourier.h"
+#include "log.h"
+#include "memory_.h"
+#include "monitor.h"
+#include "property.h"
+#include "quantum-private.h"
+#include "thread-private.h"
 #if defined(MAGICKCORE_FFTW_DELEGATE)
 #if defined(MAGICKCORE_HAVE_COMPLEX_H)
 #include <complex.h>

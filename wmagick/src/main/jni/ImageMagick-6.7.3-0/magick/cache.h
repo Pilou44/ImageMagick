@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/blob.h"
+#include "blob.h"
 
 extern MagickExport const IndexPacket
   *GetVirtualIndexQueue(const Image *);

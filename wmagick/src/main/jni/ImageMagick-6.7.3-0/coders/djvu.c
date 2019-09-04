@@ -39,23 +39,23 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/cache.h"
-#include "magick/colormap.h"
-#include "magick/constitute.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/quantum-private.h"
-#include "magick/static.h"
-#include "magick/string_.h"
-#include "magick/module.h"
+#include "../magick/studio.h"
+#include "../magick/blob.h"
+#include "../magick/blob-private.h"
+#include "../magick/cache.h"
+#include "../magick/colormap.h"
+#include "../magick/constitute.h"
+#include "../magick/exception.h"
+#include "../magick/exception-private.h"
+#include "../magick/list.h"
+#include "../magick/magick.h"
+#include "../magick/memory_.h"
+#include "../magick/monitor.h"
+#include "../magick/monitor-private.h"
+#include "../magick/quantum-private.h"
+#include "../magick/static.h"
+#include "../magick/string_.h"
+#include "../magick/module.h"
 #if defined(MAGICKCORE_DJVU_DELEGATE)
 #include <libdjvu/ddjvuapi.h>
 #endif
@@ -956,7 +956,7 @@ ModuleExport size_t RegisterDJVUImage(void)
   entry->magick=(IsImageFormatHandler *) IsDJVU;
   entry->adjoin=MagickFalse;
   entry->thread_support=MagickTrue;
-  entry->description=AcquireString("Déjà vu");
+  entry->description=AcquireString("Dï¿½jï¿½ vu");
   entry->module=AcquireString("DJVU");
   if (*version != '\0')
     entry->version=AcquireString(version);

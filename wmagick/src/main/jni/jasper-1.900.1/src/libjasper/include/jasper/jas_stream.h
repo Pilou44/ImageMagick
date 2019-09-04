@@ -74,7 +74,7 @@
 * Includes.
 \******************************************************************************/
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
 #include <stdio.h>
 #if defined(HAVE_FCNTL_H)
@@ -84,7 +84,7 @@
 #if defined(HAVE_UNISTD_H)
 #include <unistd.h>
 #endif
-#include <jasper/jas_types.h>
+#include "jas_types.h"
 
 #ifdef __cplusplus
 extern "C" {

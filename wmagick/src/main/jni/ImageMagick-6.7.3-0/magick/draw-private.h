@@ -22,9 +22,9 @@
 extern "C" {
 #endif
 
-#include "magick/cache.h"
-#include "magick/image.h"
-#include "magick/memory_.h"
+#include "cache.h"
+#include "image.h"
+#include "memory_.h"
 
 static inline MagickBooleanType GetFillColor(const DrawInfo *draw_info,
   const ssize_t x,const ssize_t y,PixelPacket *pixel)

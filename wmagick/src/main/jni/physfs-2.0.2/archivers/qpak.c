@@ -34,10 +34,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "physfs.h"
+#include "../physfs.h"
 
 #define __PHYSICSFS_INTERNAL__
-#include "physfs_internal.h"
+#include "../physfs_internal.h"
 
 #if 1  /* Make this case insensitive? */
 #define QPAK_strcmp(x, y) __PHYSFS_stricmpASCII(x, y)

@@ -24,7 +24,7 @@ extern "C" {
 
 #include <stdarg.h>
 #include <time.h>
-#include "magick/exception.h"
+#include "exception.h"
 
 typedef struct _StringInfo
 {

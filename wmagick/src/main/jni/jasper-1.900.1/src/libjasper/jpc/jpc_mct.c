@@ -73,7 +73,7 @@
 
 #include <assert.h>
 
-#include "jasper/jas_seq.h"
+#include "../include/jasper/jas_seq.h"
 
 #include "jpc_fix.h"
 #include "jpc_mct.h"

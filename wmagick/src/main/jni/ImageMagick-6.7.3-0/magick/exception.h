@@ -29,7 +29,7 @@ extern "C" {
 #endif
 
 #include <stdarg.h>
-#include "magick/semaphore.h"
+#include "semaphore.h"
 
 typedef enum
 {

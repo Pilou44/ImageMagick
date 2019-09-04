@@ -74,7 +74,7 @@
 
 #include <stdio.h>
 
-#include "jasper/jas_types.h"
+#include "../include/jasper/jas_types.h"
 
 /******************************************************************************\
 * Constants.

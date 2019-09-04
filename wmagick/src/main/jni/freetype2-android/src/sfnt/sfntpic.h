@@ -22,7 +22,7 @@
   
 FT_BEGIN_HEADER
 
-#include FT_INTERNAL_PIC_H
+#include "../../include/freetype/internal/ftpic.h"
 
  #ifndef FT_CONFIG_OPTION_PIC
 #define FT_SFNT_SERVICES_GET             sfnt_services

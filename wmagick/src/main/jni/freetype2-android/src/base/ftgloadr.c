@@ -16,9 +16,9 @@
 /***************************************************************************/
 
 
-#include <ft2build.h>
-#include FT_INTERNAL_GLYPH_LOADER_H
-#include FT_INTERNAL_MEMORY_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/internal/ftgloadr.h"
+#include "../../include/freetype/internal/ftmemory.h"
 #include FT_INTERNAL_OBJECTS_H
 
 #undef  FT_COMPONENT

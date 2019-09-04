@@ -76,8 +76,8 @@
 
 #include <stdio.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_stream.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_stream.h"
 
 /******************************************************************************\
 * Constants.

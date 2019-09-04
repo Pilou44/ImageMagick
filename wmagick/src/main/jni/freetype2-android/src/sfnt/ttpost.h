@@ -21,8 +21,8 @@
 #define __TTPOST_H__
 
 
-#include <ft2build.h>
-#include FT_CONFIG_CONFIG_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/config/ftconfig.h"
 #include FT_INTERNAL_TRUETYPE_TYPES_H
 
 

@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include <magick/thread_.h>
+#include "thread_.h"
 
 #define omp_throttle(factor)  num_threads(omp_get_max_threads() >> (factor))
 

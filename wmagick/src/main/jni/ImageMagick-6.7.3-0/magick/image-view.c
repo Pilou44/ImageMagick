@@ -45,11 +45,11 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/MagickCore.h"
-#include "magick/exception-private.h"
-#include "magick/monitor-private.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "MagickCore.h"
+#include "exception-private.h"
+#include "monitor-private.h"
+#include "thread-private.h"
 
 /*
   Typedef declarations.

@@ -23,9 +23,9 @@ extern "C" {
 #endif
 
 #include <time.h>
-#include "magick/random_.h"
-#include "magick/thread-private.h"
-#include "magick/semaphore.h"
+#include "random_.h"
+#include "thread-private.h"
+#include "semaphore.h"
 
 typedef enum
 {

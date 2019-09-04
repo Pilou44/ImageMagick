@@ -72,7 +72,7 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_seq.h"
+#include "../include/jasper/jas_seq.h"
 
 #include "jpc_t2cod.h"
 #include "jpc_mqenc.h"

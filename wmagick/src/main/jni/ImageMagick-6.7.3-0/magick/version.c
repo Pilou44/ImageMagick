@@ -36,16 +36,16 @@
 %
 */
 
-#include "magick/studio.h"
-#include "magick/configure.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/hashmap.h"
-#include "magick/locale_.h"
-#include "magick/option.h"
-#include "magick/string_.h"
-#include "magick/utility.h"
-#include "magick/version.h"
+#include "studio.h"
+#include "configure.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "hashmap.h"
+#include "locale_.h"
+#include "option.h"
+#include "string_.h"
+#include "utility.h"
+#include "version.h"
 
 /*
   Define declarations.

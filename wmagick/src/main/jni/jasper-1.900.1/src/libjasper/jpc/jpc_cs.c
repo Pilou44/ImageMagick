@@ -75,8 +75,8 @@
 #include <assert.h>
 #include <ctype.h>
 
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jpc_cs.h"
 

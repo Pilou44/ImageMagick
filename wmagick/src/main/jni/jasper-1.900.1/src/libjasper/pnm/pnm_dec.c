@@ -76,9 +76,9 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_image.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_image.h"
 
 #include "pnm_cod.h"
 

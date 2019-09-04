@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "wand/pixel-wand.h"
+#include "pixel-wand.h"
 
 typedef struct _DrawingWand
   DrawingWand;

@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/colorspace.h"
+#include "colorspace.h"
 
 typedef enum
 {

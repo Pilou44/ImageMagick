@@ -63,7 +63,7 @@
 #define JAS_TMR_H
 
 #include<time.h>
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 #if defined(HAVE_SYS_TIME_H)
 #include <sys/time.h>
 #endif

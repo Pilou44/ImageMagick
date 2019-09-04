@@ -73,11 +73,11 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_math.h"
-#include "jasper/jas_tvp.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_tvp.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jpc_fix.h"
 #include "jpc_dec.h"

@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include <magick/color.h>
+#include "color.h"
 
 #define OpaqueOpacity  ((Quantum) 0UL)
 #define TransparentOpacity  ((Quantum) QuantumRange)
@@ -125,25 +125,25 @@ typedef struct _ChromaticityInfo
     white_point;
 } ChromaticityInfo;
 
-#include "magick/blob.h"
-#include "magick/colorspace.h"
-#include "magick/cache-view.h"
-#include "magick/color.h"
-#include "magick/composite.h"
-#include "magick/compress.h"
-#include "magick/effect.h"
-#include "magick/geometry.h"
-#include "magick/layer.h"
-#include "magick/locale_.h"
-#include "magick/monitor.h"
-#include "magick/pixel.h"
-#include "magick/profile.h"
-#include "magick/quantum.h"
-#include "magick/resample.h"
-#include "magick/resize.h"
-#include "magick/semaphore.h"
-#include "magick/stream.h"
-#include "magick/timer.h"
+#include "blob.h"
+#include "colorspace.h"
+#include "cache-view.h"
+#include "color.h"
+#include "composite.h"
+#include "compress.h"
+#include "effect.h"
+#include "geometry.h"
+#include "layer.h"
+#include "locale_.h"
+#include "monitor.h"
+#include "pixel.h"
+#include "profile.h"
+#include "quantum.h"
+#include "resample.h"
+#include "resize.h"
+#include "semaphore.h"
+#include "stream.h"
+#include "timer.h"
 
 struct _Image
 {

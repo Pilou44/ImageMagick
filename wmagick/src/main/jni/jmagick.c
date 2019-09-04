@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <sys/types.h>
-#include <magick/api.h>
+#include "ImageMagick-6.7.3-0/magick/api.h"
 #include "jmagick.h"
 
 // 2016/04/17 D.Slamnig added:

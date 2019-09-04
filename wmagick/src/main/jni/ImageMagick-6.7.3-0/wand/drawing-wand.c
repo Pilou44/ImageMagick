@@ -46,11 +46,11 @@
 /*
   Include declarations.
 */
-#include "wand/studio.h"
-#include "wand/MagickWand.h"
-#include "wand/magick-wand-private.h"
-#include "wand/wand.h"
-#include "magick/string-private.h"
+#include "studio.h"
+#include "MagickWand.h"
+#include "magick-wand-private.h"
+#include "wand.h"
+#include "../magick/string-private.h"
 
 /*
   Define declarations.

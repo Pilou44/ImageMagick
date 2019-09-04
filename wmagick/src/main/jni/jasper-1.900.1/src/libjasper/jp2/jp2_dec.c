@@ -71,12 +71,12 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_image.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_math.h"
-#include "jasper/jas_debug.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_version.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_debug.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_version.h"
 
 #include "jp2_cod.h"
 #include "jp2_dec.h"

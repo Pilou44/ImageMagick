@@ -74,8 +74,8 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_seq.h"
-#include "jasper/jas_fix.h"
+#include "../include/jasper/jas_seq.h"
+#include "../include/jasper/jas_fix.h"
 
 /******************************************************************************\
 * Constants.

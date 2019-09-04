@@ -25,7 +25,7 @@
 extern "C" {
 #endif
 
-#include "magick/MagickCore.h"
+#include "MagickCore.h"
 
 #if defined(__cplusplus) || defined(c_plusplus)
 }

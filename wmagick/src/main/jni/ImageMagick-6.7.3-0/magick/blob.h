@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include "magick/image.h"
-#include "magick/stream.h"
+#include "image.h"
+#include "stream.h"
 
 #define MagickMaxBufferExtent  (32*8192)
 

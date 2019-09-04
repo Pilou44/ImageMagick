@@ -26,7 +26,7 @@ extern "C" {
 #if !defined(_MAGICKWAND_CONFIG_H)
 # define _MAGICKWAND_CONFIG_H
 # if !defined(vms) && !defined(macintosh)
-#  include "magick/magick-config.h"
+#  include "../magick/magick-config.h"
 # else
 #  include "magick-config.h"
 # endif
@@ -124,25 +124,25 @@ extern "C" {
 typedef struct _MagickWand
   MagickWand;
 
-#include "magick/MagickCore.h"
-#include "wand/animate.h"
-#include "wand/compare.h"
-#include "wand/composite.h"
-#include "wand/conjure.h"
-#include "wand/convert.h"
-#include "wand/deprecate.h"
-#include "wand/display.h"
-#include "wand/drawing-wand.h"
-#include "wand/identify.h"
-#include "wand/import.h"
-#include "wand/magick-property.h"
-#include "wand/magick-image.h"
-#include "wand/mogrify.h"
-#include "wand/montage.h"
-#include "wand/pixel-iterator.h"
-#include "wand/pixel-wand.h"
-#include "wand/stream.h"
-#include "wand/wand-view.h"
+#include "../magick/MagickCore.h"
+#include "animate.h"
+#include "compare.h"
+#include "composite.h"
+#include "conjure.h"
+#include "convert.h"
+#include "deprecate.h"
+#include "display.h"
+#include "drawing-wand.h"
+#include "identify.h"
+#include "import.h"
+#include "magick-property.h"
+#include "magick-image.h"
+#include "mogrify.h"
+#include "montage.h"
+#include "pixel-iterator.h"
+#include "pixel-wand.h"
+#include "stream.h"
+#include "wand-view.h"
 
 extern WandExport char
   *MagickGetException(const MagickWand *,ExceptionType *);

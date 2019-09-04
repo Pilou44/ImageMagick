@@ -39,41 +39,41 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/cache.h"
-#include "magick/color.h"
-#include "magick/color-private.h"
-#include "magick/colorspace.h"
-#include "magick/colorspace-private.h"
-#include "magick/compress.h"
-#include "magick/constitute.h"
-#include "magick/delegate.h"
-#include "magick/delegate-private.h"
-#include "magick/draw.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/geometry.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/option.h"
-#include "magick/profile.h"
-#include "magick/property.h"
-#include "magick/quantum-private.h"
-#include "magick/resource_.h"
-#include "magick/resize.h"
-#include "magick/static.h"
-#include "magick/string_.h"
-#include "magick/module.h"
-#include "magick/transform.h"
-#include "magick/utility.h"
-#include "magick/module.h"
+#include "../magick/studio.h"
+#include "../magick/blob.h"
+#include "../magick/blob-private.h"
+#include "../magick/cache.h"
+#include "../magick/color.h"
+#include "../magick/color-private.h"
+#include "../magick/colorspace.h"
+#include "../magick/colorspace-private.h"
+#include "../magick/compress.h"
+#include "../magick/constitute.h"
+#include "../magick/delegate.h"
+#include "../magick/delegate-private.h"
+#include "../magick/draw.h"
+#include "../magick/exception.h"
+#include "../magick/exception-private.h"
+#include "../magick/geometry.h"
+#include "../magick/image.h"
+#include "../magick/image-private.h"
+#include "../magick/list.h"
+#include "../magick/magick.h"
+#include "../magick/memory_.h"
+#include "../magick/monitor.h"
+#include "../magick/monitor-private.h"
+#include "../magick/option.h"
+#include "../magick/profile.h"
+#include "../magick/property.h"
+#include "../magick/quantum-private.h"
+#include "../magick/resource_.h"
+#include "../magick/resize.h"
+#include "../magick/static.h"
+#include "../magick/string_.h"
+#include "../magick/module.h"
+#include "../magick/transform.h"
+#include "../magick/utility.h"
+#include "../magick/module.h"
 
 /*
   Define declarations.
@@ -1078,7 +1078,7 @@ static MagickBooleanType WritePDFImage(const ImageInfo *image_info,Image *image)
     (double) version);
   (void) WriteBlobString(image,buffer);
   if (LocaleCompare(image_info->magick,"PDFA") == 0)
-    (void) WriteBlobString(image,"%âãÏÓ\n");
+    (void) WriteBlobString(image,"%ï¿½ï¿½ï¿½ï¿½\n");
   /*
     Write Catalog object.
   */

@@ -47,18 +47,18 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/string_.h"
-#include "magick/string-private.h"
-#include "magick/token-private.h"
-#include "magick/xml-tree.h"
-#include "magick/utility.h"
+#include "studio.h"
+#include "blob.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "log.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "string_.h"
+#include "string-private.h"
+#include "token-private.h"
+#include "xml-tree.h"
+#include "utility.h"
 
 /*
   Define declarations.

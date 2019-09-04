@@ -42,36 +42,36 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/annotate.h"
-#include "magick/attribute.h"
-#include "magick/cache-view.h"
-#include "magick/client.h"
-#include "magick/color.h"
-#include "magick/color-private.h"
-#include "magick/composite.h"
-#include "magick/composite-private.h"
-#include "magick/constitute.h"
-#include "magick/draw.h"
-#include "magick/draw-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/gem.h"
-#include "magick/geometry.h"
-#include "magick/image-private.h"
-#include "magick/log.h"
-#include "magick/quantum.h"
-#include "magick/quantum-private.h"
-#include "magick/property.h"
-#include "magick/resource_.h"
-#include "magick/semaphore.h"
-#include "magick/statistic.h"
-#include "magick/string_.h"
-#include "magick/token-private.h"
-#include "magick/transform.h"
-#include "magick/type.h"
-#include "magick/utility.h"
-#include "magick/xwindow-private.h"
+#include "studio.h"
+#include "annotate.h"
+#include "attribute.h"
+#include "cache-view.h"
+#include "client.h"
+#include "color.h"
+#include "color-private.h"
+#include "composite.h"
+#include "composite-private.h"
+#include "constitute.h"
+#include "draw.h"
+#include "draw-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "gem.h"
+#include "geometry.h"
+#include "image-private.h"
+#include "log.h"
+#include "quantum.h"
+#include "quantum-private.h"
+#include "property.h"
+#include "resource_.h"
+#include "semaphore.h"
+#include "statistic.h"
+#include "string_.h"
+#include "token-private.h"
+#include "transform.h"
+#include "type.h"
+#include "utility.h"
+#include "xwindow-private.h"
 #if defined(MAGICKCORE_FREETYPE_DELEGATE)
 #if defined(__MINGW32__)
 #  undef interface
@@ -82,23 +82,23 @@
 #if defined(FT_FREETYPE_H)
 #  include FT_FREETYPE_H
 #else
-#  include <freetype/freetype.h>
+#  include "../../freetype2-android/include/freetype/freetype.h"
 #endif
-#if defined(FT_GLYPH_H)
-#  include FT_GLYPH_H
-#else
-#  include <freetype/ftglyph.h>
-#endif
-#if defined(FT_OUTLINE_H)
-#  include FT_OUTLINE_H
-#else
-#  include <freetype/ftoutln.h>
-#endif
-#if defined(FT_BBOX_H)
-#  include FT_BBOX_H
-#else
-#  include <freetype/ftbbox.h>
-#endif /* defined(FT_BBOX_H) */
+//#if defined(FT_GLYPH_H)
+//#  include FT_GLYPH_H
+//#else
+#  include "../../freetype2-android/include/freetype/ftglyph.h"
+//#endif
+//#if defined(FT_OUTLINE_H)
+//#  include FT_OUTLINE_H
+//#else
+#  include "../../freetype2-android/include/freetype/ftoutln.h"
+//#endif
+//#if defined(FT_BBOX_H)
+//#  include FT_BBOX_H
+//#else
+#  include "../../freetype2-android/include/freetype/ftbbox.h"
+//#endif /* defined(FT_BBOX_H) */
 #endif
 
 /*

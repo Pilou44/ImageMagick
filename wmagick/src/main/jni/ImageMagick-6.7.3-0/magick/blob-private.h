@@ -22,8 +22,8 @@
 extern "C" {
 #endif
 
-#include "magick/image.h"
-#include "magick/stream.h"
+#include "image.h"
+#include "stream.h"
 
 #define MagickMinBlobExtent  32767L
 #if defined(MAGICKCORE_HAVE_FSEEKO)

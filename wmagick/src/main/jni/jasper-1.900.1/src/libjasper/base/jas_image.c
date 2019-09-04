@@ -77,10 +77,10 @@
 #include <assert.h>
 #include <ctype.h>
 
-#include "jasper/jas_math.h"
-#include "jasper/jas_image.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_string.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_string.h"
 
 /******************************************************************************\
 * Types.

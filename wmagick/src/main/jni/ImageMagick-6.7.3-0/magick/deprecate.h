@@ -25,16 +25,16 @@ extern "C" {
 #if !defined(MAGICKCORE_EXCLUDE_DEPRECATED)
 
 #include <stdarg.h>
-#include "magick/blob.h"
-#include "magick/cache-view.h"
-#include "magick/draw.h"
-#include "magick/constitute.h"
-#include "magick/magick-config.h"
-#include "magick/pixel.h"
-#include "magick/quantize.h"
-#include "magick/quantum.h"
-#include "magick/registry.h"
-#include "magick/semaphore.h"
+#include "blob.h"
+#include "cache-view.h"
+#include "draw.h"
+#include "constitute.h"
+#include "magick-config.h"
+#include "pixel.h"
+#include "quantize.h"
+#include "quantum.h"
+#include "registry.h"
+#include "semaphore.h"
 
 #if !defined(magick_attribute)
 #  if !defined(__GNUC__)

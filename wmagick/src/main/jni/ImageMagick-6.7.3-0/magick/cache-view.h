@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/pixel.h"
+#include "pixel.h"
 
 typedef enum
 {

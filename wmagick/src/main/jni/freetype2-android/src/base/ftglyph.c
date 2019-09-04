@@ -28,8 +28,8 @@
   /*************************************************************************/
 
 
-#include <ft2build.h>
-#include FT_GLYPH_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/ftglyph.h"
 #include FT_OUTLINE_H
 #include FT_BITMAP_H
 #include FT_INTERNAL_OBJECTS_H

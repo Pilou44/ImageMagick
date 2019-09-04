@@ -39,20 +39,20 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/list.h"
-#include "magick/locale_.h"
-#include "magick/log.h"
-#include "magick/memory_.h"
-#include "magick/property.h"
-#include "magick/resource_.h"
-#include "magick/signature-private.h"
-#include "magick/string_.h"
-#include "magick/utility-private.h"
+#include "studio.h"
+#include "blob.h"
+#include "blob-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "list.h"
+#include "locale_.h"
+#include "log.h"
+#include "memory_.h"
+#include "property.h"
+#include "resource_.h"
+#include "signature-private.h"
+#include "string_.h"
+#include "utility-private.h"
 
 /*
   Static declarations.

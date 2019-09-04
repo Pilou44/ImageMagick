@@ -17,8 +17,8 @@
 #ifndef __SVTTGLYF_H__
 #define __SVTTGLYF_H__
 
-#include FT_INTERNAL_SERVICE_H
-#include FT_TRUETYPE_TABLES_H
+#include "../ftserv.h"
+#include "../../tttables.h"
 
 
 FT_BEGIN_HEADER

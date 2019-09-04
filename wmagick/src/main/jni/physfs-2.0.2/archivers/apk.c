@@ -21,11 +21,11 @@
 #include <errno.h>
 #include <time.h>
 #endif
-#include "physfs.h"
+#include "../physfs.h"
 #include "zlib.h"
 
 #define __PHYSICSFS_INTERNAL__
-#include "physfs_internal.h"
+#include "../physfs_internal.h"
 
 extern const PHYSFS_ArchiveInfo    __PHYSFS_ArchiveInfo_ZIP;
 extern const PHYSFS_Archiver       __PHYSFS_Archiver_ZIP;

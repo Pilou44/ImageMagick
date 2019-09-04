@@ -64,13 +64,13 @@
 \******************************************************************************/
 
 #include <assert.h>
-#include "jasper/jas_types.h"
+#include "../include/jasper/jas_types.h"
 
-#include "jasper/jas_tvp.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_image.h"
-#include "jasper/jas_string.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_tvp.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_string.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jpg_jpeglib.h"
 #include "jpg_cod.h"

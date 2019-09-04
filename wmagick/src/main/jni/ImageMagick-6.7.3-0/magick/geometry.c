@@ -39,16 +39,16 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/constitute.h"
-#include "magick/draw.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/geometry.h"
-#include "magick/memory_.h"
-#include "magick/string_.h"
-#include "magick/string-private.h"
-#include "magick/token.h"
+#include "studio.h"
+#include "constitute.h"
+#include "draw.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "geometry.h"
+#include "memory_.h"
+#include "string_.h"
+#include "string-private.h"
+#include "token.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

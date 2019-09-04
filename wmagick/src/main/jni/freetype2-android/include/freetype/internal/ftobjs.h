@@ -26,7 +26,7 @@
 #ifndef __FTOBJS_H__
 #define __FTOBJS_H__
 
-#include <ft2build.h>
+#include "../../ft2build.h"
 #include FT_RENDER_H
 #include FT_SIZES_H
 #include FT_LCD_FILTER_H
@@ -38,7 +38,7 @@
 #include FT_INTERNAL_PIC_H
 
 #ifdef FT_CONFIG_OPTION_INCREMENTAL
-#include FT_INCREMENTAL_H
+#include "../ftincrem.h"
 #endif
 
 

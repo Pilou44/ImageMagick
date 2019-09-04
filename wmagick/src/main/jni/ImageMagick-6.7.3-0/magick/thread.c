@@ -38,10 +38,10 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/memory_.h"
-#include "magick/thread_.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "memory_.h"
+#include "thread_.h"
+#include "thread-private.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

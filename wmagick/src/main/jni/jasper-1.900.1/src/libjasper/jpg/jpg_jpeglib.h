@@ -67,10 +67,10 @@
 \******************************************************************************/
 
 #include <stdio.h>
-#include "jasper/jas_types.h"
+#include "../include/jasper/jas_types.h"
 
 /* Note: The jpeglib.h header file does not include definitions of
   FILE, size_t, etc. */
-#include <jpeglib.h>
+#include "../../../../jpeg-9b/jpeglib.h"
 
 #endif

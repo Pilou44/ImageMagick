@@ -79,9 +79,9 @@
 \******************************************************************************/
 
 #include <assert.h>
-#include "jasper/jas_fix.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_fix.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
 
 #include "jpc_qmfb.h"
 #include "jpc_tsfb.h"

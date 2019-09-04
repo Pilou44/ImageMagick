@@ -71,7 +71,7 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_malloc.h"
+#include "../include/jasper/jas_malloc.h"
 
 #include "jpc_mqcod.h"
 

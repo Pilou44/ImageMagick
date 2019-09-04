@@ -20,9 +20,9 @@
 #define __FTRASTER_H__
 
 
-#include <ft2build.h>
-#include FT_CONFIG_CONFIG_H
-#include FT_IMAGE_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/config/ftconfig.h"
+#include "../../include/freetype/ftimage.h"
 
 
 FT_BEGIN_HEADER

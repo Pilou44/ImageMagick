@@ -20,8 +20,8 @@
 #define __TTDRIVER_H__
 
 
-#include <ft2build.h>
-#include FT_INTERNAL_DRIVER_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/internal/ftdriver.h"
 
 
 FT_BEGIN_HEADER

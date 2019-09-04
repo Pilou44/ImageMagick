@@ -63,9 +63,9 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_image.h"
-#include "jasper/jas_init.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_init.h"
 
 /******************************************************************************\
 * Code.

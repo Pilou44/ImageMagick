@@ -74,8 +74,8 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "jasper/jas_getopt.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_getopt.h"
+#include "../include/jasper/jas_math.h"
 
 /******************************************************************************\
 * Global data.

@@ -74,8 +74,8 @@
 * Includes.
 \******************************************************************************/
 
-#include "jasper/jas_fix.h"
-#include "jasper/jas_stream.h"
+#include "../include/jasper/jas_fix.h"
+#include "../include/jasper/jas_stream.h"
 
 #include "jpc_bs.h"
 #include "jpc_dec.h"

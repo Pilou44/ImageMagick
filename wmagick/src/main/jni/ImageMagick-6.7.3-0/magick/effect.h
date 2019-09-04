@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include <magick/morphology.h>
+#include"morphology.h"
 
 typedef enum
 {

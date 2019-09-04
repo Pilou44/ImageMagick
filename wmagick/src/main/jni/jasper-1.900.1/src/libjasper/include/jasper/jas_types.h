@@ -70,7 +70,7 @@
 #ifndef JAS_TYPES_H
 #define JAS_TYPES_H
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
 #if !defined(JAS_CONFIGURE)
 

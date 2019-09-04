@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/string_.h"
+#include "string_.h"
 
 /*
   Typedef declarations.

@@ -20,8 +20,8 @@
 #define __FTSMOOTH_H__
 
 
-#include <ft2build.h>
-#include FT_RENDER_H
+#include "../../include/ft2build.h"
+#include "../../include/freetype/ftrender.h"
 
 
 FT_BEGIN_HEADER

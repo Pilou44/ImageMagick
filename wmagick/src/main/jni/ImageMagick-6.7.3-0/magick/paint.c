@@ -39,23 +39,23 @@
 /*
  Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/color.h"
-#include "magick/color-private.h"
-#include "magick/colorspace-private.h"
-#include "magick/composite.h"
-#include "magick/composite-private.h"
-#include "magick/draw.h"
-#include "magick/draw-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/gem.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/paint.h"
-#include "magick/pixel-private.h"
-#include "magick/string_.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "color.h"
+#include "color-private.h"
+#include "colorspace-private.h"
+#include "composite.h"
+#include "composite-private.h"
+#include "draw.h"
+#include "draw-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "gem.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "paint.h"
+#include "pixel-private.h"
+#include "string_.h"
+#include "thread-private.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

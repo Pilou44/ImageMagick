@@ -23,7 +23,7 @@ extern "C" {
 #endif
 
 #if defined(MAGICKCORE_X11_DELEGATE)
-#include "magick/xwindow-private.h"
+#include "xwindow-private.h"
 
 extern MagickExport Image
   *XDisplayImage(Display *,XResourceInfo *,char **,int,Image **,size_t *);

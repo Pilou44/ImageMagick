@@ -47,18 +47,18 @@
 #if defined(__MINGW32__)
 #include <sys/time.h>
 #endif
-#include "magick/studio.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/random_.h"
-#include "magick/resource_.h"
-#include "magick/signature-private.h"
-#include "magick/string_.h"
-#include "magick/thread_.h"
-#include "magick/thread-private.h"
-#include "magick/utility-private.h"
+#include "studio.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "random_.h"
+#include "resource_.h"
+#include "signature-private.h"
+#include "string_.h"
+#include "thread_.h"
+#include "thread-private.h"
+#include "utility-private.h"
 /*
   Define declarations.
 */

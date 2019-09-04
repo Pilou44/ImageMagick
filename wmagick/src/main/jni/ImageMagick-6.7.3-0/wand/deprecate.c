@@ -40,12 +40,12 @@
 /*
   Include declarations.
 */
-#include "wand/studio.h"
-#include "wand/MagickWand.h"
-#include "wand/magick-wand-private.h"
-#include "wand/wand.h"
-#include "magick/monitor-private.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "MagickWand.h"
+#include "magick-wand-private.h"
+#include "wand.h"
+#include "../magick/monitor-private.h"
+#include "../magick/thread-private.h"
 
 /*
   Define declarations.

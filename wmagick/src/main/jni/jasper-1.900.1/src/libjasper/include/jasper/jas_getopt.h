@@ -74,7 +74,7 @@
 extern "C" {
 #endif
 
-#include <jasper/jas_config.h>
+#include "jas_config.h"
 
 /******************************************************************************\
 * Constants.

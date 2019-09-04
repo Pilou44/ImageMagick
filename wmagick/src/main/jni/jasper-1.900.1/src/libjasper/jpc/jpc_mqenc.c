@@ -74,10 +74,10 @@
 #include <assert.h>
 #include <stdlib.h>
 
-#include "jasper/jas_stream.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "jpc_mqenc.h"
 

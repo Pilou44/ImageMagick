@@ -40,20 +40,20 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/color.h"
-#include "magick/color-private.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/PreRvIcccm.h"
-#include "magick/string_.h"
-#include "magick/token.h"
-#include "magick/utility.h"
-#include "magick/xwindow-private.h"
-#include "magick/widget.h"
+#include "studio.h"
+#include "color.h"
+#include "color-private.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image.h"
+#include "magick.h"
+#include "memory_.h"
+#include "PreRvIcccm.h"
+#include "string_.h"
+#include "token.h"
+#include "utility.h"
+#include "xwindow-private.h"
+#include "widget.h"
 
 #if defined(MAGICKCORE_X11_DELEGATE)
 

@@ -24,10 +24,10 @@ extern "C" {
 
 #if !defined(MAGICKCORE_EXCLUDE_DEPRECATED)
 
-#include "wand/drawing-wand.h"
-#include "wand/magick-wand.h"
-#include "wand/pixel-iterator.h"
-#include "wand/pixel-wand.h"
+#include "drawing-wand.h"
+#include "magick-wand.h"
+#include "pixel-iterator.h"
+#include "pixel-wand.h"
 
 typedef struct _DrawingWand
   *DrawContext;

@@ -26,9 +26,9 @@ extern "C" {
   ImageMagick Alpha Composite Inline Methods (special export)
 */
 
-#include "magick/color.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
+#include "color.h"
+#include "image.h"
+#include "image-private.h"
 
 static inline MagickRealType RoundToUnity(const MagickRealType value)
 {

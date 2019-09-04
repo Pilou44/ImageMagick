@@ -44,13 +44,13 @@
 /*
   Include declarations.
 */
-#include "wand/studio.h"
-#include "wand/MagickWand.h"
-#include "wand/mogrify-private.h"
-#include "magick/monitor-private.h"
-#include "magick/thread-private.h"
-#include "magick/string-private.h"
-#include "magick/utility-private.h"
+#include "studio.h"
+#include "MagickWand.h"
+#include "mogrify-private.h"
+#include "../magick/monitor-private.h"
+#include "../magick/thread-private.h"
+#include "../magick/string-private.h"
+#include "../magick/utility-private.h"
 
 /*
   Define declarations.

@@ -62,20 +62,20 @@
 #include <Gestalt.h>
 #include <TextUtils.h>
 #define ColorInfo  KolorInfo
-#include "magick/studio.h"
-#include "magick/blob.h"
-#include "magick/client.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/monitor.h"
-#include "magick/monitor-private.h"
-#include "magick/quantum.h"
-#include "magick/string_.h"
-#include "magick/utility.h"
-#include "magick/mac.h"
+#include "studio.h"
+#include "blob.h"
+#include "client.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "image-private.h"
+#include "list.h"
+#include "magick.h"
+#include "monitor.h"
+#include "monitor-private.h"
+#include "quantum.h"
+#include "string_.h"
+#include "utility.h"
+#include "mac.h"
 
 /*
   Global declaractions.

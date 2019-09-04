@@ -47,17 +47,17 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/client.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/hashmap.h"
-#include "magick/locale_.h"
-#include "magick/log.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/string_.h"
-#include "magick/utility.h"
+#include "studio.h"
+#include "client.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "hashmap.h"
+#include "locale_.h"
+#include "log.h"
+#include "magick.h"
+#include "memory_.h"
+#include "string_.h"
+#include "utility.h"
 
 
 // 2016/04/17 D.Slamnig added:

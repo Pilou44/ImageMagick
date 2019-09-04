@@ -22,10 +22,10 @@
 extern "C" {
 #endif
 
-#include "magick/geometry.h"
-#include "magick/image.h"
-#include "magick/pixel.h"
-#include "magick/type.h"
+#include "geometry.h"
+#include "image.h"
+#include "pixel.h"
+#include "type.h"
 
 typedef enum
 {

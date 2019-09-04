@@ -24,7 +24,7 @@ extern "C" {
 
 #if defined(MAGICKCORE_X11_DELEGATE)
 
-#include "magick/xwindow-private.h"
+#include "xwindow-private.h"
 
 extern MagickExport int
   XCommandWidget(Display *,XWindows *,const char **,XEvent *),

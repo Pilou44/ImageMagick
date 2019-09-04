@@ -3,7 +3,8 @@
 #include <stdio.h>
 #include <time.h>
 #include <sys/types.h>
-#include <magick/api.h>
+
+#include "ImageMagick-6.7.3-0/magick/api.h"
 #include "jmagick.h"
 //#include "magick_Magick.h"
 

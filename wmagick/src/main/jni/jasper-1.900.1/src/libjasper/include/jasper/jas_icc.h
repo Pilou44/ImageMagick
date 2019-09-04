@@ -62,9 +62,9 @@
 #ifndef JAS_ICC_H
 #define	JAS_ICC_H
 
-#include <jasper/jas_config.h>
-#include <jasper/jas_types.h>
-#include <jasper/jas_stream.h>
+#include "jas_config.h"
+#include "jas_types.h"
+#include "jas_stream.h"
 
 #ifdef __cplusplus
 extern "C" {

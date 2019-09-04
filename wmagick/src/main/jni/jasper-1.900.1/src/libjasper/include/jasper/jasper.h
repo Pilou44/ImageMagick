@@ -62,25 +62,25 @@
 #ifndef JAS_JASPER_H
 #define JAS_JASPER_H
 
-#include <jasper/jas_config.h>
-#include <jasper/jas_types.h>
-#include <jasper/jas_version.h>
+#include "jas_config.h"
+#include "jas_types.h"
+#include "jas_version.h"
 
-#include <jasper/jas_init.h>
-#include <jasper/jas_cm.h>
-#include <jasper/jas_icc.h>
-#include <jasper/jas_fix.h>
-#include <jasper/jas_debug.h>
-#include <jasper/jas_getopt.h>
-#include <jasper/jas_image.h>
-#include <jasper/jas_icc.h>
-#include <jasper/jas_math.h>
-#include <jasper/jas_malloc.h>
-#include <jasper/jas_seq.h>
-#include <jasper/jas_stream.h>
-#include <jasper/jas_string.h>
-#include <jasper/jas_tmr.h>
-#include <jasper/jas_tvp.h>
+#include "jas_init.h"
+#include "jas_cm.h"
+#include "jas_icc.h"
+#include "jas_fix.h"
+#include "jas_debug.h"
+#include "jas_getopt.h"
+#include "jas_image.h"
+#include "jas_icc.h"
+#include "jas_math.h"
+#include "jas_malloc.h"
+#include "jas_seq.h"
+#include "jas_stream.h"
+#include "jas_string.h"
+#include "jas_tmr.h"
+#include "jas_tvp.h"
 
 #ifdef __cplusplus
 extern "C" {

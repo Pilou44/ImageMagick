@@ -73,10 +73,10 @@
 
 #include <assert.h>
 
-#include "jasper/jas_types.h"
-#include "jasper/jas_stream.h"
-#include "jasper/jas_image.h"
-#include "jasper/jas_debug.h"
+#include "../include/jasper/jas_types.h"
+#include "../include/jasper/jas_stream.h"
+#include "../include/jasper/jas_image.h"
+#include "../include/jasper/jas_debug.h"
 
 #include "bmp_enc.h"
 #include "bmp_cod.h"

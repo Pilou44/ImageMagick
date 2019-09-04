@@ -75,9 +75,9 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "jasper/jas_fix.h"
-#include "jasper/jas_malloc.h"
-#include "jasper/jas_math.h"
+#include "../include/jasper/jas_fix.h"
+#include "../include/jasper/jas_malloc.h"
+#include "../include/jasper/jas_math.h"
 
 #include "jpc_t1enc.h"
 #include "jpc_t1cod.h"

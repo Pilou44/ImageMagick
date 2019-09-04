@@ -59,7 +59,7 @@
  * __END_OF_JASPER_LICENSE__
  */
 
-#include "jasper/jas_version.h"
+#include "../include/jasper/jas_version.h"
 
 const char *jas_getversion()
 {

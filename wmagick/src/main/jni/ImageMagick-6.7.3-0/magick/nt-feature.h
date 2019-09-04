@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/splay-tree.h"
+#include "splay-tree.h"
 
 extern MagickExport void
   *CropImageToHBITMAP(Image *,const RectangleInfo *,ExceptionInfo *),

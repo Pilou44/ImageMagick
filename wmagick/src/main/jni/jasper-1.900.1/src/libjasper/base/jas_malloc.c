@@ -77,7 +77,7 @@
 /* We need the prototype for memset. */
 #include <string.h>
 
-#include "jasper/jas_malloc.h"
+#include "../include/jasper/jas_malloc.h"
 
 /******************************************************************************\
 * Code.

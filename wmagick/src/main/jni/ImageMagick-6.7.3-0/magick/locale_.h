@@ -22,7 +22,7 @@
 extern "C" {
 #endif
 
-#include "magick/hashmap.h"
+#include "hashmap.h"
 
 typedef struct _LocaleInfo
 {

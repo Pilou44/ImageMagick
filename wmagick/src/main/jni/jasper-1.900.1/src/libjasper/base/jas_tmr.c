@@ -73,7 +73,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "jasper/jas_tmr.h"
+#include "../include/jasper/jas_tmr.h"
 
 /******************************************************************************\
 * Code.

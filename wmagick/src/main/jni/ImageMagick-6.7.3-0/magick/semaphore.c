@@ -41,15 +41,15 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/memory_.h"
-#include "magick/semaphore.h"
-#include "magick/semaphore-private.h"
-#include "magick/string_.h"
-#include "magick/thread_.h"
-#include "magick/thread-private.h"
+#include "studio.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "memory_.h"
+#include "semaphore.h"
+#include "semaphore-private.h"
+#include "string_.h"
+#include "thread_.h"
+#include "thread-private.h"
 
 /*
   Struct declaractions.

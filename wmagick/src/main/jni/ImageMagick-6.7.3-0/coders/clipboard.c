@@ -39,7 +39,7 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
+#include "../magick/studio.h"
 #if defined(MAGICKCORE_WINGDI32_DELEGATE)
 #  if defined(__CYGWIN__)
 #    include <windows.h>
@@ -48,21 +48,21 @@
 #    include <wingdi.h>
 #  endif
 #endif
-#include "magick/blob.h"
-#include "magick/blob-private.h"
-#include "magick/cache.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/image-private.h"
-#include "magick/list.h"
-#include "magick/magick.h"
-#include "magick/memory_.h"
-#include "magick/nt-feature.h"
-#include "magick/quantum-private.h"
-#include "magick/static.h"
-#include "magick/string_.h"
-#include "magick/module.h"
+#include "../magick/blob.h"
+#include "../magick/blob-private.h"
+#include "../magick/cache.h"
+#include "../magick/exception.h"
+#include "../magick/exception-private.h"
+#include "../magick/image.h"
+#include "../magick/image-private.h"
+#include "../magick/list.h"
+#include "../magick/magick.h"
+#include "../magick/memory_.h"
+#include "../magick/nt-feature.h"
+#include "../magick/quantum-private.h"
+#include "../magick/static.h"
+#include "../magick/string_.h"
+#include "../magick/module.h"
 
 /*
   Forward declarations.

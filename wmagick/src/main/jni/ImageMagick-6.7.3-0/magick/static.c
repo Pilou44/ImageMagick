@@ -40,13 +40,13 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/exception-private.h"
-#include "magick/image.h"
-#include "magick/module.h"
-#include "magick/policy.h"
-#include "magick/static.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "exception-private.h"
+#include "image.h"
+#include "module.h"
+#include "policy.h"
+#include "static.h"
+#include "string_.h"
 
 /*
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

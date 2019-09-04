@@ -39,18 +39,18 @@
 /*
   Include declarations.
 */
-#include "magick/studio.h"
-#include "magick/cache.h"
-#include "magick/exception.h"
-#include "magick/exception-private.h"
-#include "magick/property.h"
-#include "magick/image.h"
-#include "magick/memory_.h"
-#include "magick/quantum.h"
-#include "magick/quantum-private.h"
-#include "magick/signature.h"
-#include "magick/signature-private.h"
-#include "magick/string_.h"
+#include "studio.h"
+#include "cache.h"
+#include "exception.h"
+#include "exception-private.h"
+#include "property.h"
+#include "image.h"
+#include "memory_.h"
+#include "quantum.h"
+#include "quantum-private.h"
+#include "signature.h"
+#include "signature-private.h"
+#include "string_.h"
 /*
   Define declarations.
 */

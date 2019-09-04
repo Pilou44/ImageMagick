@@ -7,7 +7,7 @@
  */
 
 #define __PHYSICSFS_INTERNAL__
-#include "physfs_platforms.h"
+#include "../physfs_platforms.h"
 
 #ifdef PHYSFS_PLATFORM_BEOS
 
